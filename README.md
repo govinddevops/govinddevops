@@ -55,9 +55,11 @@ Junior **DevOps Engineer** with 1.5 years of hands-on experience in **Linux Admi
           Pods
            ↓
     Containerized Application (Docker)
+🔍 Operations & Troubleshooting
+Operational debugging expertise using Kubernetes CLI tools:
 
-### 🔍 Operations & Troubleshooting
-```Operational debugging expertise using Kubernetes CLI tools:
+Bash
+
 # Verify health across all namespaces
 kubectl get pods -A
 
@@ -69,36 +71,15 @@ kubectl describe pod <pod-name>
 
 # Manage and track deployment rollout status
 kubectl rollout status deployment <deployment-name>
-
-
-### 📊 GitHub Activity & Stats
-```<img src="https://github-readme-stats.vercel.app/api?username=govinddevops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinddevops&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-
-### 📂 Featured Repository
-```👉 🚀 DevOps-Journey
+📊 GitHub Activity & Stats
+📂 Featured Repository
+👉 🚀 DevOps-Journey
 Enterprise-grade Infrastructure: Implementing Docker, K8s, GitHub Actions, Jenkins, and Monitoring stack.
 
-### 📫 Connect with me
-```⭐ DevOps | Kubernetes | Docker | Jenkins | CI/CD | Monitoring | Automation | Linux
+📫 Connect with me <p align="left">
+<a href="mailto:govindsharma.devops@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/govind-devops-a20ab33b6/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⭐ DevOps | Kubernetes | Docker | Jenkins | CI/CD | Monitoring | Automation | Linux
