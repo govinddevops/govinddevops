@@ -200,7 +200,7 @@ kubectl get secret <secret-name> -o jsonpath="{.data.<key>}" | base64 --decode
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-govindsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsharma.devops@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-govind.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsharma.devops@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-devops-a20ab33b6/)
 
