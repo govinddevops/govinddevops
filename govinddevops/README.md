@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Govind%20Sharma&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud-Native%20Infrastructure&descAlignY=58&descSize=18&descColor=a8dadc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Govind&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud-Native%20Infrastructure&descAlignY=58&descSize=18&descColor=a8dadc" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -26,7 +26,7 @@
 > **Junior DevOps Engineer** with **1.5 years** of hands-on experience in **Linux Administration** and **Cloud-Native Infrastructure**. Proven expertise in architecting automated CI/CD pipelines, containerizing complex applications, and managing Kubernetes orchestration to maintain **99.9% system uptime**.
 
 ```yaml
-Name        : Govind Sharma
+Name        : Govind
 Role        : Junior DevOps Engineer
 Experience  : 1.5 Years
 Focus       : Everything-as-Code (EaC) | Automation | Cloud-Native
@@ -51,7 +51,6 @@ Availability: Open to Opportunities ✅
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -173,11 +172,11 @@ kubectl get secret <secret-name> -o jsonpath="{.data.<key>}" | base64 --decode
 
 <div align="center">
 
-[![DevOps-Journey](https://github-readme-stats.vercel.app/api/pin/?username=govinddevops&repo=DevOps-Journey&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/govinddevops/DevOps-Journey)
+[![cloud-native-cicd-delivery-platform](https://github-readme-stats.vercel.app/api/pin/?username=govinddevops&repo=cloud-native-cicd-delivery-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/govinddevops/cloud-native-cicd-delivery-platform)
 
 </div>
 
-**🔥 DevOps-Journey** — Enterprise-grade Infrastructure Repository
+**🔥 cloud-native-cicd-delivery-platform** — Enterprise-grade Cloud Native CI/CD Platform
 
 - ☸️ Full **Kubernetes** deployment manifests with HPA & Ingress configurations
 - 🐳 **Docker** multi-stage optimized build pipelines
@@ -203,7 +202,7 @@ kubectl get secret <secret-name> -o jsonpath="{.data.<key>}" | base64 --decode
 
 [![Gmail](https://img.shields.io/badge/Gmail-govindsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsharma.devops@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-devops-a20ab33b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-devops-a20ab33b6/)
 
 <br/>
 
@@ -223,3 +222,4 @@ kubectl get secret <secret-name> -o jsonpath="{.data.<key>}" | base64 --decode
 *"Automate everything. Monitor everything. Break nothing."*
 
 </div>
+
