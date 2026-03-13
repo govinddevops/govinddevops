@@ -57,15 +57,29 @@ Availability: Open to Opportunities ✅
 ### ⚙️ CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Drone CI](https://img.shields.io/badge/Drone%20CI-212121?style=for-the-badge&logo=drone&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white)
 
 ### 🗄️ Servers & Networking
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### ☸️ Kubernetes & Container Tools
+![K9s](https://img.shields.io/badge/K9s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+
+### 📋 Log Management
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Vector](https://img.shields.io/badge/Vector-10E7FF?style=for-the-badge&logo=vector&logoColor=black)
+
+### 🤖 DevOps Automation & Infrastructure
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 
 </div>
 
@@ -200,7 +214,7 @@ kubectl get secret <secret-name> -o jsonpath="{.data.<key>}" | base64 --decode
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-govind.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsharma.devops@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-govindsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsharma.devops@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-devops-a20ab33b6/)
 
