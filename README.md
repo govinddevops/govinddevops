@@ -3,11 +3,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Govind&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud-Native%20Infrastructure&descAlignY=58&descSize=18&descColor=a8dadc" width="100%" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+Automating+Everything-as-Code+(EaC);☸️+Kubernetes+%7C+Docker+%7C+CI%2FCD+Engineer;⚙️+Building+99.9%25+Uptime+Infrastructure;🐧+Linux+Administration+%7C+Cloud-Native+Expert" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
