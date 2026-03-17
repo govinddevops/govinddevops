@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:2d0000&height=220&section=header&text=Govind&fontSize=60&fontColor=e50914&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud-Native%20Infrastructure&descAlignY=58&descSize=18&descColor=aaaaaa" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=800&lines=Building+Production-grade+DevOps+Infrastructure;Netflix+Clone+%7C+FFmpeg+%7C+AWS+S3+%7C+Kubernetes;GitOps+with+ArgoCD+%7C+Jenkins+%7C+GitHub+Actions;Automating+Everything-as-Code+(EaC);Docker+%7C+K8s+%7C+CI%2FCD+%7C+Monitoring+%7C+Linux" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=govinddevops&label=Profile+Views&color=e50914&style=for-the-badge" />
