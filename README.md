@@ -28,7 +28,7 @@
 
 ### 🧑‍💼 Professional Summary
 
-I am a **Junior DevOps Engineer** currently working at **Ezdat Technology Pvt Ltd, Gurugram** with **1.5 years** of production experience. I specialize in designing and operating **Cloud-Native Infrastructure** — from containerizing microservices with Docker to orchestrating them on Kubernetes clusters with full CI/CD automation.
+I am a **Junior DevOps Engineer** currently working at **Ezdat Technology Pvt Ltd, Gurugram** with **1.6 years** of production experience. I specialize in designing and operating **Cloud-Native Infrastructure** — from containerizing microservices with Docker to orchestrating them on Kubernetes clusters with full CI/CD automation.
 
 My most ambitious project — **Cinemaplex DevOps Pipeline** — is a production-grade Netflix-style video streaming platform built entirely from scratch, featuring an FFmpeg video processing engine, AWS S3 cloud storage, React frontend, Node.js backend, and a complete DevOps stack including Jenkins, GitHub Actions, Trivy security scanning, and Prometheus + Grafana monitoring.
 
@@ -43,7 +43,7 @@ My most ambitious project — **Cinemaplex DevOps Pipeline** — is a production
 │  Name         │  Govind                                      │
 │  Role         │  Junior DevOps Engineer                      │
 │  Company      │  Ezdat Technology Pvt Ltd, Gurugram          │
-│  Experience   │  1.5 Years (Production)                      │
+│  Experience   │  1.6 Years (Production)                      │
 │  Flagship     │  Cinemaplex DevOps Pipeline (Netflix Clone)  │
 │  Focus        │  Everything-as-Code | Cloud-Native | CI/CD   │
 │  Availability │  Open to Opportunities ✅                    │
