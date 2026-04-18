@@ -12,12 +12,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=govinddevops&label=Profile+Views&color=e50914&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-1.5%20Years-e50914?style=for-the-badge&logo=devdotto&logoColor=white" />
+<img src="https://img.shields.io/badge/Experience-1.8%20Years-e50914?style=for-the-badge&logo=devdotto&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
 </div>
 
 ---
