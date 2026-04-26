@@ -335,7 +335,7 @@ trivy image image:tag                             # Security scan image
 
 [![Gmail](https://img.shields.io/badge/Gmail-govindsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsharma.devops@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-devops-a20ab33b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goviind-a20ab33b6/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-govinddevops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/govinddevops)
 
